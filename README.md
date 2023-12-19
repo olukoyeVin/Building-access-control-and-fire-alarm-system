@@ -34,7 +34,7 @@ Getting Started
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/building-access-control-fire-alarm.git
+git clone https://github.com/olukoyeVin/building-access-control-fire-alarm.git
 Refer to individual component directories for specific setup and usage instructions.
 Contribution Guidelines
 Contributions are welcome! If you wish to contribute, follow these steps:
